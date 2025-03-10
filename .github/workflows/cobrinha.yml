@@ -1,4 +1,4 @@
- name: Jobs to update datas
+name: Jobs to update datas
      runs-on: ubuntu-latest
      steps:
        # Summary Cards
@@ -7,7 +7,7 @@
          env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
          with:
-           USERNAME: ${{ github.com/rayssamorei/ }}
+           USERNAME: ${{ github.repository_owner }}
  
        # Snake Animation
        - uses: Platane/snk@master
