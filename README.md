@@ -1,4 +1,10 @@
-## Rayssa Moreira
+## Rayssa Alves Moreira 
+### Olá 👋  
+Sou estudante de Informática e desenvolvedora em formação apaixonada por tecnologia, inovação e impacto social.  
+Tenho experiência com desenvolvimento web e mobile, participei de projetos reais por meio do programa **Capacita Brasil**, utilizando tecnologias como React, Node.js e Swift.  
+
+Busco oportunidades para crescer como desenvolvedora e contribuir com soluções criativas e que façam a diferença.  
+Vamos nos conectar? 💜  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayssamorei&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssamorei&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
